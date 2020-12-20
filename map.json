@@ -28,12 +28,6 @@
          "id":7,
          "name":"Musik",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/bit.ly\/34uZRMW"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
